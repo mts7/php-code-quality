@@ -4,7 +4,7 @@
   "minimum-stability": "stable",
   "license": "MIT",
   "require": {
-    "icanhazstring/composer-unused": "^0.8.4",
+    "icanhazstring/composer-unused": "^0.8.5",
     "infection/infection": "^0.26.16",
     "phing/phing": "^2.17",
     "phpmd/phpmd": "^2.13",
