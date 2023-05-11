@@ -5,7 +5,7 @@
   "license": "MIT",
   "require": {
     "icanhazstring/composer-unused": "^0.8.7",
-    "infection/infection": "^0.26.20",
+    "infection/infection": "^0.26.21",
     "phing/phing": "^2.17",
     "phpmd/phpmd": "^2.13",
     "php-parallel-lint/php-parallel-lint": "^1.3",
